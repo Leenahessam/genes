@@ -1,0 +1,353 @@
+# depslib dependency file v1.0
+1544006575 source:e:\pdf's\fci 2\programming2\assignment 4\project 4\main.cpp
+	<iostream>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1543858447 source:e:\pdf's\fci 2\programming2\assignment 4\project 4\src\codonstable.cpp
+	"CodonsTable.h"
+
+1543859309 e:\pdf's\fci 2\programming2\assignment 4\project 4\include\codonstable.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	<iostream>
+
+1544003824 e:\pdf's\fci 2\programming2\assignment 4\project 4\include\sequence.h
+	<iostream>
+
+1544004470 e:\pdf's\fci 2\programming2\assignment 4\project 4\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<iostream>
+
+1543964971 e:\pdf's\fci 2\programming2\assignment 4\project 4\include\rna.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+	<iostream>
+
+1543879165 e:\pdf's\fci 2\programming2\assignment 4\project 4\include\protein.h
+	"Sequence.h"
+	<iostream>
+
+1544007150 source:e:\pdf's\fci 2\programming2\assignment 4\project 4\src\dna.cpp
+	"DNA.h"
+
+1544003842 source:e:\pdf's\fci 2\programming2\assignment 4\project 4\src\sequence.cpp
+	"Sequence.h"
+	<iostream>
+
+1543879274 source:e:\pdf's\fci 2\programming2\assignment 4\project 4\src\protein.cpp
+	"Protein.h"
+
+1544006862 source:e:\pdf's\fci 2\programming2\assignment 4\project 4\src\rna.cpp
+	"RNA.h"
+
+1544372062 source:e:\fci\second year\programming ii\assignments\assignment4\assignment 4\project 4\src\codonstable.cpp
+	"CodonsTable.h"
+	<fstream>
+
+1544320919 e:\fci\second year\programming ii\assignments\assignment4\assignment 4\project 4\include\codonstable.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	<iostream>
+	<fstream>
+
+1544215546 e:\fci\second year\programming ii\assignments\assignment4\assignment 4\project 4\include\sequence.h
+	<iostream>
+
+1544055180 e:\fci\second year\programming ii\assignments\assignment4\assignment 4\project 4\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<iostream>
+
+1544441739 e:\fci\second year\programming ii\assignments\assignment4\assignment 4\project 4\include\rna.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+	<iostream>
+
+1544442749 e:\fci\second year\programming ii\assignments\assignment4\assignment 4\project 4\include\protein.h
+	"Sequence.h"
+	"CodonsTable.h"
+	<iostream>
+	<fstream>
+
+1544364038 source:e:\fci\second year\programming ii\assignments\assignment4\assignment 4\project 4\src\dna.cpp
+	"DNA.h"
+	"RNA.h"
+
+1544442621 source:e:\fci\second year\programming ii\assignments\assignment4\assignment 4\project 4\src\protein.cpp
+	"Protein.h"
+	"CodonsTable.h"
+	"Sequence.h"
+	<fstream>
+
+1544442621 source:e:\fci\second year\programming ii\assignments\assignment4\assignment 4\project 4\src\rna.cpp
+	"RNA.h"
+
+1544212680 source:e:\fci\second year\programming ii\assignments\assignment4\assignment 4\project 4\src\sequence.cpp
+	"Sequence.h"
+	<iostream>
+
+1544368979 source:e:\fci\second year\programming ii\assignments\assignment4\assignment 4\project 4\main.cpp
+	<iostream>
+	<cstring>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544461012 source:e:\fci\second year\programming ii\assignments\assignment4\project 4 - lauren and leena\main.cpp
+	<iostream>
+	<cstring>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544453160 e:\fci\second year\programming ii\assignments\assignment4\project 4 - lauren and leena\include\sequence.h
+	<iostream>
+
+1544461353 e:\fci\second year\programming ii\assignments\assignment4\project 4 - lauren and leena\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<iostream>
+	<cstring>
+
+1544453159 e:\fci\second year\programming ii\assignments\assignment4\project 4 - lauren and leena\include\rna.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+	<iostream>
+
+1544453159 e:\fci\second year\programming ii\assignments\assignment4\project 4 - lauren and leena\include\protein.h
+	"Sequence.h"
+	"CodonsTable.h"
+	<iostream>
+	<fstream>
+
+1544453159 e:\fci\second year\programming ii\assignments\assignment4\project 4 - lauren and leena\include\codonstable.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	<iostream>
+	<fstream>
+
+1544453160 source:e:\fci\second year\programming ii\assignments\assignment4\project 4 - lauren and leena\src\codonstable.cpp
+	"CodonsTable.h"
+	<fstream>
+
+1544460937 source:e:\fci\second year\programming ii\assignments\assignment4\project 4 - lauren and leena\src\dna.cpp
+	"DNA.h"
+	"RNA.h"
+
+1544453160 source:e:\fci\second year\programming ii\assignments\assignment4\project 4 - lauren and leena\src\protein.cpp
+	"Protein.h"
+	"CodonsTable.h"
+	"Sequence.h"
+	<fstream>
+
+1544453159 source:e:\fci\second year\programming ii\assignments\assignment4\project 4 - lauren and leena\src\rna.cpp
+	"RNA.h"
+
+1544453289 source:e:\fci\second year\programming ii\assignments\assignment4\project 4 - lauren and leena\src\sequence.cpp
+	"Sequence.h"
+	<iostream>
+
+1544568638 source:e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\project 4 - lauren and leena\src\codonstable.cpp
+	"CodonsTable.h"
+	<fstream>
+
+1544566362 e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\project 4 - lauren and leena\include\codonstable.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	<iostream>
+	<fstream>
+
+1544563395 e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\project 4 - lauren and leena\include\sequence.h
+	<iostream>
+
+1544569509 e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\project 4 - lauren and leena\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<iostream>
+	<cstring>
+
+1544528184 e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\project 4 - lauren and leena\include\rna.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+	<iostream>
+	<fstream>
+
+1544572850 e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\project 4 - lauren and leena\include\protein.h
+	"Sequence.h"
+	"CodonsTable.h"
+	<iostream>
+	<fstream>
+
+1544572850 source:e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\project 4 - lauren and leena\src\protein.cpp
+	"Protein.h"
+	"CodonsTable.h"
+	"Sequence.h"
+	<fstream>
+
+1544563001 source:e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\project 4 - lauren and leena\src\sequence.cpp
+	"Sequence.h"
+	<iostream>
+
+1544572979 source:e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\project 4 - lauren and leena\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544573375 source:e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\project 4 - lauren and leena\src\rna.cpp
+	"RNA.h"
+
+1544570425 source:e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\project 4 - lauren and leena\src\dna.cpp
+	"DNA.h"
+	"RNA.h"
+
+1544718043 source:e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\version 2\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544563395 e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\version 2\include\sequence.h
+	<iostream>
+
+1544569509 e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\version 2\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<iostream>
+	<cstring>
+
+1544716411 e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\version 2\include\rna.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+	<iostream>
+	<fstream>
+
+1544715230 e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\version 2\include\protein.h
+	"Sequence.h"
+	"CodonsTable.h"
+	<iostream>
+	<fstream>
+
+1544566362 e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\version 2\include\codonstable.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	<iostream>
+	<fstream>
+
+1544570425 source:e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\version 2\src\dna.cpp
+	"DNA.h"
+	"RNA.h"
+
+1544718105 source:e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\version 2\src\protein.cpp
+	"Protein.h"
+	"CodonsTable.h"
+	"Sequence.h"
+	<fstream>
+
+1544716411 source:e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\version 2\src\rna.cpp
+	"RNA.h"
+
+1544563001 source:e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\version 2\src\sequence.cpp
+	"Sequence.h"
+	<iostream>
+
+1544714495 source:e:\fci\2nd year , 1st semester\programming ii - dr. el-ramly & dr. mohamed nassef\assignments\assignment 4\version 2\src\codonstable.cpp
+	"CodonsTable.h"
+	<fstream>
+
+1544721254 source:e:\team task last version\src\codonstable.cpp
+	"CodonsTable.h"
+	<fstream>
+
+1544721151 e:\team task last version\include\codonstable.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	<iostream>
+	<fstream>
+
+1544721237 e:\team task last version\include\sequence.h
+	<iostream>
+
+1544721166 e:\team task last version\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<iostream>
+	<cstring>
+
+1544723889 e:\team task last version\include\rna.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+	<iostream>
+	<fstream>
+
+1544721215 e:\team task last version\include\protein.h
+	"Sequence.h"
+	"CodonsTable.h"
+	<iostream>
+	<fstream>
+
+1544727937 source:e:\team task last version\src\protein.cpp
+	"Protein.h"
+	"CodonsTable.h"
+	"Sequence.h"
+	<fstream>
+
+1544728526 source:e:\team task last version\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544727190 source:e:\team task last version\src\rna.cpp
+	"RNA.h"
+	<fstream>
+
+1544725801 source:e:\team task last version\src\sequence.cpp
+	"Sequence.h"
+	<iostream>
+	<fstream>
+
+1544727190 source:e:\team task last version\src\dna.cpp
+	"DNA.h"
+	"RNA.h"
+	<fstream>
+
